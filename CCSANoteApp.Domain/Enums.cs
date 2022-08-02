@@ -2,6 +2,7 @@
 {
     public enum GroupName
     {
-
+        Public,
+        Private
     }
 }
